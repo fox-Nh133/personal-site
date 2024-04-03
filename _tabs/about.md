@@ -15,6 +15,6 @@ If you have any questions or suggestions, please feel free to contact me.
 | Method         | Information                 |
 | -------------- | --------------------------- |
 | <i class="fa-regular fa-envelope"></i> Email  | [masaya@narita.info](mailto:masaya@narita.info) |
-| <i class="fa-brands fa-twitter"></i> twitter | [Masaya](https://twitter.com/kyle___113) |
+| <i class="fa-brands fa-twitter"></i> twitter | [fox](https://twitter.com/kyle___113) |
 | <i class="fab fa-hashtag"></i> Bluesky | [Masaya](https://bsky.app/profile/msy14.bsky.social) |
 | <i class="fa-brands fa-github"></i> GitHub  | [fox-Nh113](https://github.com/fox-Nh133) |
