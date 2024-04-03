@@ -1,18 +1,21 @@
 #  The contact options.
+- type: twitter
+  icon: "fab fa-twitter"
+  url: 'https://twitter.com/kyle___113'
+
+- type: bluesky
+  icon: "fab fa-hashtag"
+  url: 'https://bsky.app/profile/msy14.bsky.social'
 
 - type: github
   icon: "fab fa-github"
-
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+  url: 'https://github.com/fox-Nh133'
 
 - type: email
   icon: "fas fa-envelope"
+  url: 'mailto:masaya@narita.info'
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
