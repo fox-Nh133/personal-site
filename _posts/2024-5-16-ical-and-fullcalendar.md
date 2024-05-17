@@ -1,7 +1,7 @@
 ---
 # the default layout is ‚post‘
-title: iCal & FullCalendar
-date: 2024-04-03
+title: iCal & FullCalendar 🗓
+date: 2024-05-16
 ---
 
 In order to render calendar using javascript on website, FullCalendar is one of the most popular library.
