@@ -16,7 +16,7 @@ timezone:
 
 title: Masaya # the main title
 
-tagline: Kyoto Institute of Technology, Sony CSL Kyoto, mui Lab # it will display as the sub-title
+tagline: Kyoto Institute of Technology, Sony CSL Kyoto # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Japanese university student, researcher, and hardware engineer in Kyoto, Japan. Personal blog about chemistry, human machine interface, calm technology and more.
